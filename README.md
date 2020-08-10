@@ -7,7 +7,7 @@ Generate a Tambola Ticket with below rules:
 5. Each colum will have minimum of 1 and maximum of 2 numbers
 6. Each i column will contain numbers from (i * 10 + 1) to (i * 10 + 10) only. For example 0 column will contain numbers from 0-10, 1 column will contain numbers from 11-20 and so on.
 
-Create a function which return the below result:
+Create a function which returns sample result like below:
 Output: 
 [
   [0, 14, 22, 0, 0, 0, 64, 76, 86],
